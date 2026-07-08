@@ -40,11 +40,10 @@ Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 
 ## Repositórios
 
-Organizo por tema, para ficar fácil de navegar:
-
-- `laboratorios-redes` — exercícios práticos de redes, topologias e configuração
-- `analise-trafego` — captura e análise de pacotes com Wireshark
-- `scripts-linux` — automações e scripts de administração em Debian/CentOS
+- [Laboratórios Redes](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-redes) — exercícios práticos de redes, topologias e configuração
+- [Análise Trafego](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-redes/analise-trafego) — captura e análise de pacotes com Wireshark
+- [Laboratórios Linux](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-linux) — laboratórios práticos de administração e permissões em GNU/Linux.
+- [Certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados) — certificados e cursos concluídos durante a graduação e estudos complementares.
 
 ## Contato
 
