@@ -12,7 +12,7 @@ Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 
 ## O que estudo
 
-- **GNU/Linux** — Debian e CentOS, praticando em máquina virtual
+- **GNU/Linux** - Debian e CentOS, praticando em máquina virtual
 - **Redes de Computadores** - fundamentos TCP/IP, análise de tráfego com Wireshark
 - **Segurança da Informação** - conceitos introdutórios e boas práticas
 - **Shell Script** - automatizando tarefas básicas de administração de sistemas
@@ -41,7 +41,7 @@ Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 - [Laboratórios Redes](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-redes) - exercícios práticos de redes, topologias e configuração
 - [Análise de Tráfego](https://github.com/arthurfernandes97/portfolio/tree/main/analise-de-trafego) - captura e análise de pacotes com Wireshark
 - [Laboratórios Linux](https://github.com/arthurfernandes97/portfolio/tree/main/laboratorios-linux) - laboratórios práticos de administração e permissões em GNU/Linux.
-- [Certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados) — certificados e cursos concluídos durante a graduação e estudos complementares.
+- [Certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados) - certificados e cursos concluídos durante a graduação e estudos complementares.
 
 ## Contato
 
