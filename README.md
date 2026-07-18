@@ -17,11 +17,10 @@ Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 
 ## Próximos passos
 - **Windows Server e Active Directory** - curso ainda não adquirido, é o próximo da fila
-- **Git e GitHub via linha de comando** - hoje organizo os repositórios pela interface web; branches, commits e pull requests via terminal são o próximo passo
 
 ## Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,debian,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,debian,git,github,vscode" />
 </p>
 
 Também uso **Cisco Packet Tracer** e **Wireshark** com frequência nos laboratórios do portfólio.
@@ -31,6 +30,7 @@ Também uso **Cisco Packet Tracer** e **Wireshark** com frequência nos laborat�
 - GNU/Linux - Udemy
 - Redes de Computadores TCP/IP e Wireshark - Udemy
 - Cibersegurança - Udemy
+- Git & GitHub
 
 Certificados completos disponíveis em [certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados).
 
