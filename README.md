@@ -1,31 +1,36 @@
 <div align="center">
 
 # Arthur Fernandes
-**Ciência da Computação (3º semestre) • Migrando para TI: Suporte, Redes e Infraestrutura**
+**Ciência da Computação (3º semestre) • Migrando para TI: Suporte Técnico, Redes e Infraestrutura**
 
 </div>
 
-Atualmente trabalho como motorista de APH e estou em transição de carreira para a área de Tecnologia da Informação. Estou desenvolvendo meus estudos em redes, sistemas operacionais e infraestrutura através de laboratórios práticos, documentando configurações, testes e aprendizados em ambientes como GNU/Linux, Wireshark e Cisco Packet Tracer.
+Atualmente trabalho como motorista de APH e estou em transição de carreira para a área de Tecnologia da Informação. Estou desenvolvendo meus estudos em redes, sistemas operacionais e infraestrutura por meio de laboratórios práticos, documentando configurações, testes e processos de troubleshooting em ambientes Windows, GNU/Linux, Wireshark e Cisco Packet Tracer.
 
-Esse perfil reúne os laboratórios, scripts e anotações que venho produzindo nessa jornada. A ideia é documentar o processo de aprendizado, não só o resultado final.
+Este perfil reúne os laboratórios, scripts e anotações que venho produzindo durante essa jornada. O objetivo é documentar o processo de aprendizado e a evolução prática dos estudos, não apenas o resultado final.
 
 ## O que estudo
+
 - **Redes de Computadores** - TCP/IP, IPv4/IPv6, VLANs, DHCP, DNS, NAT e análise de tráfego com Wireshark
-- **Segurança de Rede** - controle de acesso com firewalld e ACL, aplicando o princípio de menor privilégio em laboratórios práticos
-- **GNU/Linux** - administração básica em Debian e CentOS, terminal, permissões e gerenciamento de serviços
-- **Cisco Packet Tracer** - criação e configuração de topologias, VLANs e roteamento
+- **Windows** - preparação de estações de trabalho, configuração inicial, conectividade de rede e virtualização com Oracle VirtualBox
+- **GNU/Linux** - administração básica em Debian e CentOS, terminal, permissões, firewall e gerenciamento de serviços
+- **Segurança de Rede** - controle de acesso com firewalld e ACL, aplicando o princípio do menor privilégio em laboratórios práticos
+- **Cisco Packet Tracer** - criação e configuração de topologias, VLANs, roteamento e troubleshooting
 
 ## Próximos passos
-- **Windows Server e Active Directory** - curso ainda não adquirido, é o próximo da fila
+
+- **Windows Server e Active Directory** - próximo foco de estudos para aprofundar conhecimentos em ambientes corporativos.
 
 ## Ferramentas
+
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,debian,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,bash,debian,git,github,vscode" />
 </p>
 
-Também uso **Cisco Packet Tracer** e **Wireshark** com frequência nos laboratórios do portfólio.
+Também utilizo **Oracle VirtualBox**, **Cisco Packet Tracer** e **Wireshark** com frequência nos laboratórios do portfólio.
 
 ## Certificados
+
 - Networking Basics - Cisco Networking Academy
 - GNU/Linux - Udemy
 - Redes de Computadores TCP/IP e Wireshark - Udemy
@@ -35,8 +40,11 @@ Também uso **Cisco Packet Tracer** e **Wireshark** com frequência nos laborat�
 Certificados completos disponíveis em [certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados).
 
 ## Portfólio
-Confira meus projetos práticos de redes, infraestrutura e Linux:
+
+Confira meus projetos práticos de redes, infraestrutura, Windows e GNU/Linux:
+
 [Portfólio de Projetos](https://github.com/arthurfernandes97/portfolio)
 
 ## Contato
+
 - LinkedIn: [Arthur Fernandes](https://www.linkedin.com/in/arthur-fernandes-289395272)
