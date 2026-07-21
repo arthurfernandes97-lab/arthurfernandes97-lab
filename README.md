@@ -12,7 +12,7 @@ Este perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 ## O que estudo
 
 - **Redes de Computadores** - TCP/IP, IPv4/IPv6, VLANs, DHCP, DNS, NAT e análise de tráfego com Wireshark
-- **Windows** - preparação de estações de trabalho, configuração inicial, conectividade de rede e virtualização com Oracle VirtualBox
+- **Windows** - instalação, configuração, administração e troubleshooting de sistemas Windows em ambientes virtualizados
 - **GNU/Linux** - administração básica em Debian e CentOS, terminal, permissões, firewall e gerenciamento de serviços
 - **Segurança de Rede** - controle de acesso com firewalld e ACL, aplicando o princípio do menor privilégio em laboratórios práticos
 - **Cisco Packet Tracer** - criação e configuração de topologias, VLANs, roteamento e troubleshooting
