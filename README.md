@@ -12,14 +12,10 @@ Este perfil reúne os laboratórios, scripts e anotações que venho produzindo 
 ## O que estudo
 
 - **Redes de Computadores** - TCP/IP, IPv4/IPv6, VLANs, DHCP, DNS, NAT e análise de tráfego com Wireshark
-- **Windows** - instalação, configuração, administração e troubleshooting de sistemas Windows em ambientes virtualizados
+- **Windows** - instalação, configuração, administração e troubleshooting de sistemas Windows em ambientes virtualizados, incluindo Windows Server 2025 e Active Directory
 - **GNU/Linux** - administração básica em Debian e CentOS, terminal, permissões, firewall e gerenciamento de serviços
 - **Segurança de Rede** - controle de acesso com firewalld e ACL, aplicando o princípio do menor privilégio em laboratórios práticos
 - **Cisco Packet Tracer** - criação e configuração de topologias, VLANs, roteamento e troubleshooting
-
-## Próximos passos
-
-- **Windows Server e Active Directory** - próximo foco de estudos para aprofundar conhecimentos em ambientes corporativos.
 
 ## Ferramentas
 
@@ -31,10 +27,11 @@ Também utilizo **Oracle VirtualBox**, **Cisco Packet Tracer** e **Wireshark** c
 
 ## Certificados
 
-- Networking Basics - Cisco Networking Academy
-- GNU/Linux - Udemy
+- Windows Server 2025 - Udemy
 - Redes de Computadores TCP/IP e Wireshark - Udemy
 - Cibersegurança - Udemy
+- GNU/Linux - Udemy
+- Networking Basics - Cisco Networking Academy
 - Git & GitHub - Cursa
 
 Certificados completos disponíveis em [certificados](https://github.com/arthurfernandes97/portfolio/tree/main/certificados).
@@ -42,7 +39,6 @@ Certificados completos disponíveis em [certificados](https://github.com/arthurf
 ## Portfólio
 
 Confira meus projetos práticos de redes, infraestrutura, Windows e GNU/Linux:
-
 [Portfólio de Projetos](https://github.com/arthurfernandes97/portfolio)
 
 ## Contato
